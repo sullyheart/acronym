@@ -1,9 +1,24 @@
 # acronym
-What is it?
+
+# What is it?
 
 An npm library to get the initial letter of words
 
-LICENSE
+# Installaton
+
+```sh
+$ npm i acronym
+```
+
+## Usage
+
+```js
+let wordAcronyms = require("acronym");
+let words = wordAcronyms("Node Package Manager");
+console.log(words); // logs NPM
+```
+
+# LICENSE
 
 MIT License
 

@@ -1,0 +1,26 @@
+{
+  "name": "acronym",
+  "version": "1.0.0",
+  "description": "It is a simple library to get initial letters of words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sullyheart/acronym.git"
+  },
+  "keywords": [
+    "acronym",
+    "strings"
+  ],
+  "author": "Abdulsalam SUliyat Opeyemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sullyheart/acronym/issues"
+  },
+  "homepage": "https://github.com/sullyheart/acronym#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

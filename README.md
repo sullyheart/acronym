@@ -7,7 +7,7 @@ An npm library to get the initial letter of words
 # Installaton
 
 ```sh
-$ npm i acronym
+$ npm i acronymm
 ```
 
 ## Usage
